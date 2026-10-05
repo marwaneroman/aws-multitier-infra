@@ -1,5 +1,7 @@
 # AWS Secure Multi-Tier Architecture – Design Notes
 
+![Alt text description](/AWS Architecture.jpg)
+
 ## 1. Requirements
 This architecture was designed to meet the following requirements:
 
